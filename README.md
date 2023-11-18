@@ -31,7 +31,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png"
